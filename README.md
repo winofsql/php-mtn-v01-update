@@ -19,4 +19,4 @@ CREATE TABLE `社員マスタ` (
 )
 ```
 
-![image](https://user-images.githubusercontent.com/1501327/157995613-671990f2-0f6f-43ac-96a7-cae263833ef0.png)
+![image](https://user-images.githubusercontent.com/1501327/157995686-217429dc-4451-4272-a44e-783d590f7844.png)
