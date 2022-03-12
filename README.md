@@ -18,3 +18,5 @@ CREATE TABLE `社員マスタ` (
   PRIMARY KEY (`社員コード`)
 )
 ```
+
+![image](https://user-images.githubusercontent.com/1501327/157995613-671990f2-0f6f-43ac-96a7-cae263833ef0.png)
