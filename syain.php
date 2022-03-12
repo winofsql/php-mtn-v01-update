@@ -59,4 +59,3 @@ require_once("syain-view.php");
 
 debug_print();
 
-?>
