@@ -19,7 +19,7 @@ if ( $_POST["btn"] == "確認" ) {
     $_POST["seibetsu"] = $row["性別"];
     $_POST["kyuyo"] = $row["給与"];
     $_POST["teate"] = $row["手当"];
-    $_POST["kanri"] = $row["管理"];
+    $_POST["kanri"] = $row["管理者"];
     $_POST["birth"] = $row["生年月日"];
 }
 
